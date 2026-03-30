@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 180">
+  <defs>
+    <linearGradient id="pBody" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f4fbff"/>
+      <stop offset="100%" stop-color="#bccddc"/>
+    </linearGradient>
+    <linearGradient id="pWing" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#dbe7f2"/>
+      <stop offset="100%" stop-color="#9fb1c4"/>
+    </linearGradient>
+  </defs>
+  <path d="M80 8 L98 36 L96 142 L80 174 L64 142 L62 36 Z" fill="url(#pBody)" stroke="#4f5961" stroke-width="4"/>
+  <path d="M52 42 L18 86 L58 82 L72 58 Z" fill="#d34866" stroke="#5a5f66" stroke-width="4"/>
+  <path d="M108 42 L142 86 L102 82 L88 58 Z" fill="#d34866" stroke="#5a5f66" stroke-width="4"/>
+  <path d="M36 52 L66 70 L52 126 L24 154 L20 110 Z" fill="url(#pWing)" stroke="#5a626b" stroke-width="4"/>
+  <path d="M124 52 L94 70 L108 126 L136 154 L140 110 Z" fill="url(#pWing)" stroke="#5a626b" stroke-width="4"/>
+  <path d="M74 34 L86 34 L90 116 L80 150 L70 116 Z" fill="#e4edf5" stroke="#5a626b" stroke-width="4"/>
+  <rect x="68" y="16" width="24" height="28" rx="10" fill="#2d3d48" stroke="#7a8791" stroke-width="4"/>
+  <circle cx="80" cy="48" r="7" fill="#7a8791"/>
+  <rect x="58" y="146" width="14" height="22" rx="4" fill="#ffd38c"/>
+  <rect x="88" y="146" width="14" height="22" rx="4" fill="#ffd38c"/>
+</svg>

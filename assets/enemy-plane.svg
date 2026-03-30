@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 180">
+  <defs>
+    <linearGradient id="eBody" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1d2630"/>
+      <stop offset="100%" stop-color="#0a1118"/>
+    </linearGradient>
+  </defs>
+  <path d="M80 174 L96 144 L98 38 L80 8 L62 38 L64 144 Z" fill="url(#eBody)" stroke="#676e74" stroke-width="4"/>
+  <path d="M50 42 L14 84 L58 82 L72 58 Z" fill="#d9b24f" stroke="#5b6166" stroke-width="4"/>
+  <path d="M110 42 L146 84 L102 82 L88 58 Z" fill="#d9b24f" stroke="#5b6166" stroke-width="4"/>
+  <path d="M34 50 L64 68 L54 126 L28 154 L22 108 Z" fill="#101821" stroke="#5c666f" stroke-width="4"/>
+  <path d="M126 50 L96 68 L106 126 L132 154 L138 108 Z" fill="#101821" stroke="#5c666f" stroke-width="4"/>
+  <rect x="68" y="16" width="24" height="28" rx="10" fill="#303842" stroke="#7f8a92" stroke-width="4"/>
+  <rect x="58" y="144" width="14" height="22" rx="4" fill="#ffc27d"/>
+  <rect x="88" y="144" width="14" height="22" rx="4" fill="#ffc27d"/>
+</svg>

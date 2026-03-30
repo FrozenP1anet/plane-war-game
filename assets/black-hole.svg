@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0d0618"/>
+      <stop offset="42%" stop-color="#1f1340"/>
+      <stop offset="68%" stop-color="#4a2f8c"/>
+      <stop offset="84%" stop-color="#85d5ff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#85d5ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="58%" stop-color="#07040d"/>
+      <stop offset="100%" stop-color="#251743"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="90" cy="90" r="84" fill="url(#glow)"/>
+    <ellipse cx="90" cy="90" rx="64" ry="30" fill="#89dfff" fill-opacity="0.32" transform="rotate(-18 90 90)"/>
+    <ellipse cx="90" cy="90" rx="58" ry="24" fill="#7f7bff" fill-opacity="0.42" transform="rotate(24 90 90)"/>
+    <ellipse cx="90" cy="90" rx="50" ry="20" fill="#190f30" transform="rotate(-18 90 90)"/>
+    <ellipse cx="90" cy="90" rx="46" ry="18" fill="#2a1b55" fill-opacity="0.85" transform="rotate(24 90 90)"/>
+    <circle cx="90" cy="90" r="28" fill="url(#core)"/>
+    <circle cx="90" cy="90" r="12" fill="#000"/>
+    <path d="M60 54c18-12 42-13 59-2" stroke="#c5efff" stroke-opacity="0.54" stroke-width="4" stroke-linecap="round"/>
+    <path d="M54 118c18 15 48 17 71 4" stroke="#a9c1ff" stroke-opacity="0.48" stroke-width="3.5" stroke-linecap="round"/>
+  </g>
+</svg>
